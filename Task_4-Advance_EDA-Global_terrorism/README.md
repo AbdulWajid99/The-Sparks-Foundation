@@ -11,6 +11,6 @@
 
 
 ## Explanation Video:<br>
-<a href="">Exploratory Data Analysis - Terrorism</a>
+<a href="https://www.linkedin.com/posts/abdulwajid99_gripsept21-tsfnetwork-thesparksfoundation-activity-6846126247584546816-8OA8">Exploratory Data Analysis - Terrorism</a>
 
 

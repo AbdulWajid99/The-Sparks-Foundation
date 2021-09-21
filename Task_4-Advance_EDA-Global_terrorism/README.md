@@ -10,7 +10,7 @@
 [Link: Dataset](https://drive.google.com/file/d/1luTU7xBvI7QAGPbQMxEHcgKUi9d6UeP_/view)<br>
 
 
-## Explanation-Youtube Video:<br>
+## Explanation Video:<br>
 <a href="">Exploratory Data Analysis - Terrorism</a>
 
 
